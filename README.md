@@ -17,5 +17,5 @@ This project is a **digital twin** and diagnostic tool designed to simulate and 
 - **Modular Architecture:** Split into separate simulation, analysis, and visualization modules to ensure maintainability.
 
 ## Related Projects
-### [Physical Altitude Threshold Detector] ([https://github.com/yourusername/arduino-altitude-threshold-detector)](https://github.com/faeezali/BMP180-Sensor-Simulation-Analysis)
+### [Physical Altitude Threshold Detector] (https://github.com/faeezali/Arduino-Altitude-Threshold-Detector)
 This Python simulation acts as a **Digital Twin** for my physical Arduino prototype. While the Arduino handles real-time hardware interrupts and LED alerts, this Python suite provides the diagnostic pipeline needed to analyze telemetry logs and refine the threshold logic used in the field.
